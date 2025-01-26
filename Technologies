@@ -1,0 +1,5 @@
+In a microservices architecture, tools like Eureka Server, API Gateway, Hystrix, and Hystrix Dashboard are used in my application.
+🔹 Eureka Server - Eureka is a service registry and discovery tool. It is used to manage the locations (IP addresses and ports) of microservices in the system.
+🔹 API Gateway - An API Gateway is a single entry point into the system, handling requests and routing them to the appropriate backend service.
+🔹 Hystrix - Hystrix is a library designed to handle failures in a distributed system by providing circuit breaker functionality.
+🔹 Hystrix Dashboard - Hystrix Dashboard provides a visual representation of the current health of the microservices and their interactions
